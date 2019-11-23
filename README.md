@@ -1,4 +1,4 @@
-<p align="center"><img width="100" src="https://vuejs.org/images/logo.png" alt="Vue logo"></p>
+<p align="center"><img width="200" src="https://github.com/Tomis03/vue-360-images-carousel/tree/master/src/assets/carousel.png" alt="Carousel image"></p>
 <h1 align="center">Vue 360 Images Carousel</h1>
 <p>A simple photo carousel created in Vue.</p>
 <h2>How to start</h2>
