@@ -8,3 +8,5 @@
 <li>Run command <code>npm install</code></li>
 <li>After installation run command <code>npm run serve</code></li>
 </ol>
+<h2>Demo</h2>
+[Vue 360 Images Slider Demo](https://vue-360-images-slider.herokuapp.com/)
