@@ -9,4 +9,4 @@
 <li>After installation run command <code>npm run serve</code></li>
 </ol>
 <h2>Demo</h2>
-See demo of slider on heroku - https://vue-360-images-slider.herokuapp.com/
+See demo of carousel on heroku - https://vue-360-images-slider.herokuapp.com/
